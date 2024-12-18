@@ -1,24 +1,23 @@
-## Descrizione del Codice
-
-### 1. Creazione del Dataset
-Abbiamo creato un dataset simulato che rappresenta strutture ricettive accessibili in Italia. Ogni struttura è descritta con:
+Descrizione del Codice
+1. Creazione del Dataset
+Ho creato un dataset simulato che rappresenta strutture ricettive accessibili in Italia. Ogni struttura è descritta con:
 - **Nome**: Nome della struttura.
 - **Posizione**: Regione e città.
 - **Servizi**: Servizi di accessibilità offerti.
 - **Tipo**: Tipologia (Hotel, B&B, Agriturismo).
 - **Valutazione**: Valutazione media degli utenti.
 
-### 2. Pulizia dei Dati
-Abbiamo pulito il dataset rimuovendo:
+ 2. Pulizia dei Dati
+ho pulito il dataset rimuovendo:
 - Righe con valori mancanti (`dropna()`).
 - Righe duplicate (`drop_duplicates()`).
 
-### 3. Analisi dei Dati
+ 3. Analisi dei Dati
 - **Valutazione Media per Tipo di Struttura**: Determina il tipo di struttura più apprezzato dagli utenti.
 - **Distribuzione delle Strutture per Regione**: Identifica le regioni con il maggior numero di strutture.
 - **Servizi Più Comuni**: Analizza i servizi di accessibilità più frequentemente offerti.
 
-### 4. Visualizzazione
+ 4. Visualizzazione
 Grafici creati per rappresentare:
 - Le valutazioni medie.
 - La distribuzione geografica.
