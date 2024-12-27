@@ -1,0 +1,23 @@
+Sinossi del Progetto
+
+Titolo: Analisi dell’accessibilità e delle strutture ricettive per il turismo inclusivo in Italia
+
+Presentazione del progetto:
+Il progetto si propone di analizzare i dati relativi alle strutture ricettive in diverse regioni italiane, con un focus sull’accessibilità per persone con disabilità o esigenze specifiche (ad esempio, presenza di rampe, ascensori, servizi per ipovedenti). Verranno integrati anche dati sul flusso turistico per comprendere il livello di domanda e offerta per un turismo inclusivo.
+
+Obiettivo del progetto:
+
+Identificare le regioni italiane con la migliore offerta di turismo inclusivo.
+Evidenziare eventuali carenze infrastrutturali.
+Proporre strategie per migliorare l’accessibilità nel settore turistico.
+Tecnologie utilizzate:
+
+Python per il web scraping di dati sulle strutture ricettive da siti come Booking.com e Airbnb.
+Pandas e Matplotlib/Seaborn per la gestione, l'analisi e la visualizzazione dei dati.
+SQLite o MongoDB per il salvataggio dei dati estratti.
+Tableau o Power BI (opzionale) per creare report interattivi.
+L’analisi integrerà anche dataset pubblici relativi ai flussi turistici disponibili su piattaforme open data regionali o nazionali.
+
+Risultati attesi:
+Un report dettagliato che mostri le regioni più adatte al turismo inclusivo, con suggerimenti pratici per i decisori politici e gli operatori del settore.
+
